@@ -1,0 +1,17 @@
+body {
+  color: #231f1f;
+}
+
+h1 {
+  color: pink;
+  font-size: 100px;
+}
+.flashy {
+  color: #8c0714;
+  font-style: bold;
+}
+.best {
+  color: #54151b;
+  text-shadow: 7px 3px 4px #634d4f;
+  font-size: 80px;
+}
